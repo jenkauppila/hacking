@@ -1,6 +1,11 @@
 # Hacking Simulation Script
 
-This Python script simulates a humorous hacking sequence. It gives the illusion of accessing classified files and reveals funny "secrets" upon completion. It's a fun example of using Python for a lighthearted terminal experience!
+## Status: Archived
+
+This was an early practice project from when I was first learning Python. It's kept here for reference but is no longer maintained or updated.
+
+## What This Was
+A humorous terminal script simulating a fake hacking sequence, using loops, `time.sleep()`, and `random.choice()` to display fake progress and reveal a random joke "secret" at the end.
 
 ## Features
 
@@ -8,15 +13,12 @@ This Python script simulates a humorous hacking sequence. It gives the illusion 
 - **Accessing Files**: Pretends to access classified information.
 - **Random Secrets**: Reveals a random funny secret from a predefined list.
 
-## Requirements
+## Original Source
+Based on an exercise from Coding Temple.
 
-- Python 3.x
+## Tech Used
+Python (standard library only: `time`, `random`)
 
-## How to Run
+## Why It's Archived
+This was a learning exercise, not a production project. It doesn't reflect my current skill level or coding standards. Kept for personal reference only.
 
-**Clone the Repository** by running the following command in the terminal:
-   - ```git clone https://github.com/codingTempleDave/hacking.git```
-
-**Access the folder and run the file** by running the following commands in the terminal:
-   - ```cd hacking```
-   - ```python hacking.py```
